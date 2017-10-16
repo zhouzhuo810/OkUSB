@@ -75,8 +75,6 @@
 
         @Override
         public void onDataReceive(byte[] data) {
-//                final String rData = DataUtil.byteArrayToString(data);
-//                tvResult.append(rData);
             tvResult.setText(new String(data, Charset.forName("GB2312")));
         }
 
