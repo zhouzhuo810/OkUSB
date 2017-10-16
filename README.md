@@ -15,6 +15,20 @@
 
 ### Gradle
 
+```
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+
+	dependencies {
+	        compile 'com.github.zhouzhuo810:OkUSB:1.0.0'
+	}
+
+
+```
 
 ### 具体用法
 
