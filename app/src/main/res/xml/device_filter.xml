@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <usb-device vendor-id="0403" product-id="6001" />
+
+    <!--&lt;!&ndash; 0x0403 / 0x6001: FTDI FT232R UART &ndash;&gt;-->
+    <!--<usb-device vendor-id="1027" product-id="24577" />-->
+
+    <!--&lt;!&ndash; 0x0403 / 0x6015: FTDI FT231X &ndash;&gt;-->
+    <!--<usb-device vendor-id="1027" product-id="24597" />-->
+
+    <!--&lt;!&ndash; 0x2341 / Arduino &ndash;&gt;-->
+    <!--<usb-device vendor-id="9025" />-->
+
+    <!--&lt;!&ndash; 0x16C0 / 0x0483: Teensyduino  &ndash;&gt;-->
+    <!--<usb-device vendor-id="5824" product-id="1155" />-->
+
+    <!--&lt;!&ndash; 0x10C4 / 0xEA60: CP210x UART Bridge &ndash;&gt;-->
+    <!--<usb-device vendor-id="4292" product-id="60000" />-->
+
+    <!--&lt;!&ndash; 0x067B / 0x2303: Prolific PL2303 &ndash;&gt;-->
+    <!--<usb-device vendor-id="1659" product-id="8963" />-->
+
+    <!--&lt;!&ndash; 0x1a86 / 0x7523: Qinheng CH340 &ndash;&gt;-->
+    <!--<usb-device vendor-id="6790" product-id="29987" />-->
+</resources>
