@@ -54,7 +54,7 @@
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- usb转串口的产品的相关参数,很关键 -->
+    <!-- 要进行通信的USB设备的供应商ID（VID）和产品识别码（PID）-->
     <usb-device vendor-id="0403" product-id="6001" />
 </resources>
 ```
