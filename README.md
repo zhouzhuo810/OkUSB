@@ -125,7 +125,13 @@
 
 ```
 
-4.如果是Activity，可以在onDestroy中调用如下代码关闭串口。
+4.发送数据
+
+```java
+        usb.writeData(byte[], 500);
+```
+
+5.如果是Activity，可以在onDestroy中调用如下代码关闭串口。
 
 ```java
 
